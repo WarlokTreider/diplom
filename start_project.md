@@ -9,7 +9,7 @@
     
     cd my_diplom
     
-    git clone git@github.com:
+    git clone git@github.com:WarlokTreider/diplom.git
     
     cd netology_diplom
     
