@@ -11,7 +11,7 @@
     
     git clone git@github.com:WarlokTreider/diplom.git
     
-    cd netology_diplom
+    cd diplom
     
     sudo pip3 install  --upgrade pip
     
